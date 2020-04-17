@@ -1,0 +1,208 @@
+{
+  "buildings": [
+    {
+      "id": 1,
+      "name": "5300 Memorial",
+      "floors": [
+        {
+          "id": 1,
+          "name": "03",
+          "spaceTypes": [
+            {
+              "id": 1,
+              "name": "Conference Room",
+              "spaces": [
+                {
+                  "id": 1,
+                  "name": "Buffalo Bayou",
+                  "utilization": {
+                    "hour": 26,
+                    "day": 154,
+                    "week": 1457
+                  },
+                  "lastSanitized": 1587063598100
+                },
+                {
+                  "id": 2,
+                  "name": "Space Center",
+                  "utilization": {
+                    "hour": 44,
+                    "day": 482,
+                    "week": 1143
+                  },
+                  "lastSanitized": 1587063598100
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Zoom Room",
+              "spaces": [
+                {
+                  "id": 3,
+                  "name": "Discovery Green",
+                  "utilization": {
+                    "hour": 45,
+                    "day": 360,
+                    "week": 1450
+                  },
+                  "lastSanitized": 1587060095100
+                },
+                {
+                  "id": 4,
+                  "name": "Memorial",
+                  "utilization": {
+                    "hour": 11,
+                    "day": 42,
+                    "week": 908
+                  },
+                  "lastSanitized": 1587060095100
+                },
+                {
+                  "id": 10,
+                  "name": "Sam Houston",
+                  "utilization": {
+                    "hour": 11,
+                    "day": 360,
+                    "week": 1143
+                  },
+                  "lastSanitized": 1586270597100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Midgar Slums",
+      "floors": [
+        {
+          "id": 2,
+          "name": "Sector 5",
+          "spaceTypes": [
+            {
+              "id": 3,
+              "name": "Wall Market",
+              "spaces": [
+                {
+                  "id": 5,
+                  "name": "Gym",
+                  "utilization": {
+                    "hour": 16,
+                    "day": 288,
+                    "week": 1724
+                  },
+                  "lastSanitized": 1586977719000
+                },
+                {
+                  "id": 6,
+                  "name": "Mansion",
+                  "utilization": {
+                    "hour": 8,
+                    "day": 634,
+                    "week": 2185
+                  },
+                  "lastSanitized": 1586977719000
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Sector 7",
+          "spaceTypes": [
+            {
+              "id": 4,
+              "name": "Bar",
+              "spaces": [
+                {
+                  "id": 7,
+                  "name": "7th Heaven",
+                  "utilization": {
+                    "hour": 41,
+                    "day": 506,
+                    "week": 2507
+                  },
+                  "lastSanitized": 1586977719000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shinra Tower",
+      "floors": [
+        {
+          "id": 4,
+          "name": "Floor 01",
+          "spaceTypes": [
+            {
+              "id": 5,
+              "name": "Meeting Room",
+              "spaces": [
+                {
+                  "id": 8,
+                  "name": "Lobby",
+                  "utilization": {
+                    "hour": 45,
+                    "day": 360,
+                    "week": 1450
+                  },
+                  "lastSanitized": 1586891838000
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Floor 65",
+          "spaceTypes": [
+            {
+              "id": 6,
+              "name": "Meeting Room",
+              "spaces": [
+                {
+                  "id": 9,
+                  "name": "Ifrit",
+                  "utilization": {
+                    "hour": 55,
+                    "day": 184,
+                    "week": 1679
+                  },
+                  "lastSanitized": 1586891838000
+                },
+                {
+                  "id": 9,
+                  "name": "Shiva",
+                  "utilization": {
+                    "hour": 27,
+                    "day": 272,
+                    "week": 1043
+                  },
+                  "lastSanitized": 1586891838000
+                },
+                {
+                  "id": 9,
+                  "name": "Choco",
+                  "utilization": {
+                    "hour": 52,
+                    "day": 298,
+                    "week": 1256
+                  },
+                  "lastSanitized": 1586891838000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
